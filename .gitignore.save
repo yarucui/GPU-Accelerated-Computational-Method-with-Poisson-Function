@@ -1,0 +1,4 @@
+# benchmarks outputs
+bench/results_*.csv
+bench/figs/
+
